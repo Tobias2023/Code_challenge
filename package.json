@@ -1,0 +1,14 @@
+{
+  "name": "tobias_front_challenge",
+  "version": "1.0.0",
+  "description": "The goal is to find the smallest number (let's call it **M**) such that:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tobias Scott",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
