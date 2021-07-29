@@ -53,8 +53,4 @@ test("check if product of all odd digits is a square number", () => {
   expect(isSquareOfodds(1299)).toBe(true);
 });
 
-// // Checks if has M has Digit
 
-// test("checks if numbers decreasing", () => {
-//     expect(hasDigit(3210)).toBe(true);
-//   });
