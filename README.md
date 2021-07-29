@@ -34,8 +34,7 @@ For example, if 2457 were a magic number, it would obey properties 2, 4, 5, 7 an
 
 #### Where I got stuck:
 
-| The part where I got stuck was the final output, how to glue everything together.
--
+ **The part where I got stuck was the final output, how to glue everything together.**
 
  My thought process was to create all the property functions, create an additional hasDigit function to check for the magic number and main magicNumber function with a loop to run all the function and the hasDigit function, if any of the conditions met returned falsy then it would not be the number.
 
@@ -72,6 +71,5 @@ Create the main magicNumber function that checks all conditions
 
 #### Conclusion
 
-| I think this was a great challenge and although I could not come to a complete solution, I strongly believe I was on the right track. I am so eager and excited to accept feedback on ways I could've approached this better, and ways to improve. 
--
+**I think this was a great challenge and although I could not come to a complete solution, I strongly believe I was on the right track. I am so eager and excited to accept feedback on ways I could've approached this better, and ways to improve.**
 
